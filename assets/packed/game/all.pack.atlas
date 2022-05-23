@@ -1,0 +1,41 @@
+
+all.pack.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+cow_one
+  rotate: false
+  xy: 302, 42
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+laserGreen2
+  rotate: false
+  xy: 496, 25
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+laserGreen_groundBurst
+  rotate: false
+  xy: 2, 47
+  size: 172, 78
+  orig: 172, 78
+  offset: 0, 0
+  index: -1
+llama_one
+  rotate: false
+  xy: 411, 29
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+shipGreen_manned
+  rotate: false
+  xy: 176, 2
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
